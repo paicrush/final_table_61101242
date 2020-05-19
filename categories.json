@@ -1,0 +1,23 @@
+/* 1 */
+{
+    "_id" : ObjectId("5ec3777d3eb0db5371e0e520"),
+    "name" : "โต๊ะเหล็ก"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5ec377cb3eb0db5371e0e53b"),
+    "name" : "โต๊ะหินอ่อน"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5ec377dc3eb0db5371e0e543"),
+    "name" : "โต๊ะไม้"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5ec377f13eb0db5371e0e54e"),
+    "name" : "โต๊ะพลาสติก"
+}

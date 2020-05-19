@@ -1,0 +1,95 @@
+/* 1 */
+{
+    "_id" : ObjectId("5eaaec743eb0db5371e08154"),
+    "name" : "โต๊ะเหล็กลายไฟ",
+    "price" : "300",
+    "categories" : ObjectId("5ec3777d3eb0db5371e0e520")
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5ec380783eb0db5371e0e925"),
+    "name" : "โต๊ะเหล็กเคลือบทองปลอม",
+    "price" : "500",
+    "categories" : ObjectId("5ec3777d3eb0db5371e0e520")
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5ec380783eb0db5371e0e928"),
+    "name" : "โต๊ะเหล็กเคลือบเงินปลอม",
+    "price" : "400",
+    "categories" : ObjectId("5ec3777d3eb0db5371e0e520")
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5ec381233eb0db5371e0e9bd"),
+    "name" : "โต๊ะหินอ่อนลายมะพร้าว",
+    "price" : "1000",
+    "categories" : ObjectId("5ec377cb3eb0db5371e0e53b")
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5ec381233eb0db5371e0e9c0"),
+    "name" : "โต๊ะหินอ่อนลายจิ้งจก",
+    "price" : "800",
+    "categories" : ObjectId("5ec377cb3eb0db5371e0e53b")
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5ec381233eb0db5371e0e9c3"),
+    "name" : "โต๊ะหินอ่อนลายแมว",
+    "price" : "700",
+    "categories" : ObjectId("5ec377cb3eb0db5371e0e53b")
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5ec386b53eb0db5371e0ee4a"),
+    "name" : "โต๊ะไม้ผุ",
+    "price" : "20",
+    "categories" : ObjectId("5ec377dc3eb0db5371e0e543")
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5ec386b53eb0db5371e0ee4d"),
+    "name" : "โต๊ะไม้ไฟไหม้",
+    "price" : "30",
+    "categories" : ObjectId("5ec377dc3eb0db5371e0e543")
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("5ec386b53eb0db5371e0ee50"),
+    "name" : "โต๊ะไม้เคลือบทองแท้",
+    "price" : "7000",
+    "categories" : ObjectId("5ec377dc3eb0db5371e0e543")
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("5ec387543eb0db5371e0eef4"),
+    "name" : "โต๊ะพลาสติกยืดได้",
+    "price" : "70",
+    "categories" : ObjectId("5ec377f13eb0db5371e0e54e")
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("5ec387543eb0db5371e0eef7"),
+    "name" : "โต๊ะพลาสติกอ่อน้",
+    "price" : "90",
+    "categories" : ObjectId("5ec377f13eb0db5371e0e54e")
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("5ec387543eb0db5371e0eefa"),
+    "name" : "โต๊ะพลาสติกแข็ง",
+    "price" : "100",
+    "categories" : ObjectId("5ec377f13eb0db5371e0e54e")
+}
